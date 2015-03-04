@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC251: Research Methods in Political Science"
+course_description: "An introductory course on the basic research tools used in political science that examines the ways in which data and theory intersect and how political scientists quantify and measure the concepts and variables that aid in understanding the world."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Research Design** <span id="3"></span> 
 *Before conducting any research, you must create a logical research
 plan. This unit will detail the standard structure of a research

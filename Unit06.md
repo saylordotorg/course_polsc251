@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC251: Research Methods in Political Science"
+course_description: "An introductory course on the basic research tools used in political science that examines the ways in which data and theory intersect and how political scientists quantify and measure the concepts and variables that aid in understanding the world."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Quantitative Methods: Inferential Statistics** <span
 id="6"></span> 
 *In the last unit, you learned about descriptive statistics, where the

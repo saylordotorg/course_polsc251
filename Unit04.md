@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC251: Research Methods in Political Science"
+course_description: "An introductory course on the basic research tools used in political science that examines the ways in which data and theory intersect and how political scientists quantify and measure the concepts and variables that aid in understanding the world."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Data and Measurement** <span id="4"></span> 
 *In this unit, you will learn how political scientists use data and
 measurement to understand and quantify political phenomena. You will

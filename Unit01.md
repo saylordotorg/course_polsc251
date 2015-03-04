@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC251: Research Methods in Political Science"
+course_description: "An introductory course on the basic research tools used in political science that examines the ways in which data and theory intersect and how political scientists quantify and measure the concepts and variables that aid in understanding the world."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Science of Politics** <span id="1"></span> 
 *This unit will serve as an introduction to the scientific study of
 politics. As a social science, political science straddles both the*

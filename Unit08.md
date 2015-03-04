@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC251: Research Methods in Political Science"
+course_description: "An introductory course on the basic research tools used in political science that examines the ways in which data and theory intersect and how political scientists quantify and measure the concepts and variables that aid in understanding the world."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Ethics in Social Science Research** <span id="8"></span> 
 *We primarily study people in social science research. As a result,
 ethical issues may come up. The central issue that arises is the risk of

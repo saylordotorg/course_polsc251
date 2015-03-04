@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC251: Research Methods in Political Science"
+course_description: "An introductory course on the basic research tools used in political science that examines the ways in which data and theory intersect and how political scientists quantify and measure the concepts and variables that aid in understanding the world."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Qualitative Methods** <span id="7"></span> 
 *Not all research in political science is suited for quantitative
 analysis. More often than not, quantitative analysis is reserved for*
