@@ -160,3 +160,4 @@ your reading and note taking in this course.
 - [Unit 7](https://legacy.saylor.org/polsc251/Unit07/)
 - [Unit 8](https://legacy.saylor.org/polsc251/Unit08/)
 - [Unit 9](https://legacy.saylor.org/polsc251/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC251/POLSC251-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC251/POLSC251-FinalExam-Answers.html)
