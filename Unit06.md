@@ -111,7 +111,7 @@ id="6.1.3"></span> 
 -   **Reading: Wellesley College: “The Χ<sup>2</sup> (AKA chi-square)
     Distribution”**
     Link: Wellesley College: [“The Χ<sup>2</sup> (AKA chi-square)
-    Distribution”](http://www.saylor.org/site/wp-content/uploads/2013/04/POLSC251-6.1.3-TheX2Distribution.pdf) (PDF)  
+    Distribution”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC251-6.1.3-TheX2Distribution.pdf) (PDF)  
         
      Instructions: Read this presentation on Chi Square analyses. Pay
     close attention to the instructive examples.  
@@ -445,7 +445,7 @@ id="6.4.2"></span> 
     Link: *AUCO Czech Economic Review*: Madeleine O. Hosli and Marc C.
     J. Uriot’s [“Dimensions of Political Contestation: Voting in the
     Council of the European Union before the 2004
-    Enlargement”](http://www.saylor.org/site/wp-content/uploads/2012/01/114_2011_03_231.pdf)
+    Enlargement”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/114_2011_03_231.pdf)
     (PDF)  
       
      Instructions: Please read this article, which provides an actual
