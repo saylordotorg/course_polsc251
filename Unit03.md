@@ -247,7 +247,7 @@ the lecture.*
     Link: German Institute of Global and Area Studies (GIGA): *Journal
     of Current Chinese Affairs*: Min Xia’s [“Social Capital and Rural
     Grassroots Governance in
-    China”](http://www.saylor.org/site/wp-content/uploads/2012/01/POLSC251-3.5.1.pdf)
+    China”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/POLSC251-3.5.1.pdf)
     (PDF)  
       
      Instructions: Please read this article. This article provides an
@@ -282,7 +282,7 @@ the lecture.*
     Link: *Studies of Transition States and Societies*: Donnacha Ó
     Beacháin’s [“Social and Political Perceptions of the Borat
     Phenomenon in Kazakhstan: Evidence from a Case Study of University
-    Students”](http://www.saylor.org/site/wp-content/uploads/2012/01/POLSC251-3.5.2.pdf)
+    Students”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/POLSC251-3.5.2.pdf)
     (PDF)  
       
      Instructions: Please read this article, which is a useful example
@@ -327,7 +327,7 @@ the lecture.*
     Link: German Institute of Global and Area Studies (GIGA): *Journal
     of Current Chinese Affairs*: James W.Y. Wang’s [“The Political
     Economy of Collective Labour Legislation in
-    Taiwan”](http://www.saylor.org/site/wp-content/uploads/2012/01/POLSC251-3.5.3.pdf) (PDF)  
+    Taiwan”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/POLSC251-3.5.3.pdf) (PDF)  
       
      Instructions: Please read this article, which provides an example
     of historical analysis.  

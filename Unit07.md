@@ -118,7 +118,7 @@ id="7.1"></span> 
     Link: German Institute of Global and Area Studies (GIGA): *Journal
     of Current Southeast Asian Affairs*: Anyarat Chattharakul’s [“Thai
     Electoral Campaigning: Vote-Canvassing Networks and Hybrid
-    Voting”](http://www.saylor.org/site/wp-content/uploads/2012/01/364-387-1-PB.pdf)
+    Voting”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/364-387-1-PB.pdf)
     (PDF)  
       
      Instructions: Please read this article. This article is an actual
@@ -152,7 +152,7 @@ id="7.1"></span> 
     Music and the Mobilization of Racist Social Movements”**
     Link: *Music and Arts in Action*: Bob Edwards’ [“White Power Music
     and the Mobilization of Racist Social
-    Movements”](http://www.saylor.org/site/wp-content/uploads/2012/01/14-70-3-PB.pdf)
+    Movements”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/14-70-3-PB.pdf)
     (PDF)  
       
      Instructions: Please read this article, which provides an actual
