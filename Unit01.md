@@ -116,7 +116,7 @@ Scientists Study** <span id="1.2"></span> 
     Center: “Political Science”**
     Link: University of North Carolina at Chapel Hill’s Writing Center:
     [“Political
-    Science”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/POLSC251-1.3-UNCCH.pdf)
+    Science”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/POLSC251-1.3-UNCCH.pdf)
     (PDF)  
       
      Instructions: Please read this article. Note that this discussion

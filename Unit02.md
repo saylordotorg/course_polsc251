@@ -182,7 +182,7 @@ section engages with these very important constructs.*
 -   **Reading: *Research Methods in Psychology*: “Section 6.1:
     Experiment Basics”**
     Link: *Research Methods in Psychology*: [“Section 6.1: Experiment
-    Basics”](https://resources.saylor.org/archived/textbooks/Research%20Methods%20in%20Psychology.pdf) (PDF)  
+    Basics”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Research%20Methods%20in%20Psychology.pdf) (PDF)  
         
      Instructions: Read this section on internal and external validity
     as well as other important measurement issues.  

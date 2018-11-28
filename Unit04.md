@@ -322,7 +322,7 @@ id="4.6.2"></span> 
 -   **Reading: Census Learning and Teaching Materials: “Ecological
     Fallacy”**
     Link: Census Learning and Teaching Materials: [“Ecological
-    Fallacy”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/POLSC251-4.6.2-EcologicalFallacy.pdf) (PDF)  
+    Fallacy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/POLSC251-4.6.2-EcologicalFallacy.pdf) (PDF)  
         
      Instructions: Read this entry to learn about the ecological fallacy
     in statistical research. If you are interested in learning more
